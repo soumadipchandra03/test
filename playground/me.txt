@@ -1,0 +1,5 @@
+{{#user}}
+Name: Soumadip Chandra
+Skills: HTML, CSS ,Javascript,Python,SQL
+Email: soumadipchandra425@gmail.com
+{{/user}}
